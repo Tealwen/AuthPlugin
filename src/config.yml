@@ -1,0 +1,9 @@
+message:
+  LoginCommandMessage: "La commande est /login <mdp>"
+  RegisterCommandMessage: "La commande est /register <mdp>"
+  AlreadyConnectedMessage: "Vous ete deja connecter !"
+  AccountCreatedSucces: "§7§l: Compte enregistré avec succes"
+  SqlError: "Erreur SQL !"
+  AccountAlreadyExist: "Votre compte existe deja !"
+  LoginInSucces: "§7§l: Connecté avec succes"
+  WrongPassword: " Mauvais mot de passe"

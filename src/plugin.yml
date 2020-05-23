@@ -1,0 +1,16 @@
+name: Auth
+version: 1.0
+main: fr.tealwen.auth.AuthPlugin
+prefix: Auth
+authors: [droopi29]
+description: Un plugin de login simple
+website: https://norallwen.fr
+commands:
+  register:
+    description: register commandes
+    aliases:
+    - r
+  login:
+    description: login commandes
+    aliases:
+      - l
